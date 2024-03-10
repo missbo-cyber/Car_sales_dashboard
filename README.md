@@ -1,1 +1,21 @@
 # Car_sales_dashboard
+## Problem Statement
+This dashboard helps the car dealership company to effectively track and analyse their sales performance. It provides real-time insights into key performance indicators related to the sales data.
+## Presented data
+1. Sales Overview:
+- Year-to-Date (YTD) Total Sales
+- Month-to-Date (MTD) Total Sales
+- Year-over-Year (YOY) Growth in Total Sales
+- Difference between YTD Sales and Previous Year-to-Date (PTYD) Sales
+2. Average Price Analysis:
+- YTD Average Price
+- MTD Average Price
+- YOY Growth in Average Price
+- Difference between YTD Average Price and PTYD Average Price
+3. Cars Sold Metrics:
+- YTD Cars Sold
+- MTD Cars Sold
+- YOY Growth in Cars Sold
+- Difference between YTD Cars Sold and PTYD Cars Sold
+## Screenshots
+![Screenshot](Dashboard_overview.PNG)
