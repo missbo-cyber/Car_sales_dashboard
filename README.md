@@ -19,3 +19,8 @@ This dashboard helps the car dealership company to effectively track and analyse
 - Difference between YTD Cars Sold and PTYD Cars Sold
 ## Screenshots
 ![Screenshot](Dashboard_overview.PNG)
+## Charts description
+1. YTD Sales Weekly Trend - a line chart illustrating the weekly trend of YTD sales
+2. YTD Total Sales by Body Style - the distribution of YTD total sales across different car body styles using a pie chart
+3. YTD Total Sales by Color - the contribution of various car colors to the YTD total sales using a pie chart
+4. YTD Cars Sold by Dealer Region - showcase the YTD sales data based on different dealer region using a map chart to visualize the sales distribution geographically
