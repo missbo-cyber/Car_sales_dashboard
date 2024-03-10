@@ -26,3 +26,5 @@ This dashboard helps the car dealership company to effectively track and analyse
 4. YTD Cars Sold by Dealer Region - showcase the YTD sales data based on different dealer region using a map chart to visualize the sales distribution geographically
 ## Details Dashboard Screenshot
 ![Screenshot](Dashboard_details.PNG)
+## Details Dashboard Description
+Detailed grid that presents all relevant information for each car sale, including car model, body style, sales amount, dealer region, date etc.
