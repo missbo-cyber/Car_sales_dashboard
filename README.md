@@ -17,7 +17,7 @@ This dashboard helps the car dealership company to effectively track and analyse
 - MTD Cars Sold
 - YOY Growth in Cars Sold
 - Difference between YTD Cars Sold and PTYD Cars Sold
-## Screenshots
+## Overview Dashboard Screenshot
 ![Screenshot](Dashboard_overview.PNG)
 ## Charts description
 1. YTD Sales Weekly Trend - a line chart illustrating the weekly trend of YTD sales
